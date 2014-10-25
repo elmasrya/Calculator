@@ -1,2 +1,2 @@
 Javascript Cat catulator
-It caan divide, multiply, add, and subtract
+It can divide, multiply, add, and subtract
